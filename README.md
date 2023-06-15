@@ -41,12 +41,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imamhanafi1998/imamhanafi1998/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/imamhanafi1998/imamhanafi1998/.github/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dy4i34na6dnq3ypl6eizydkr4a&count=5" alt="Spotify recently played"  />
 </div>
 
 ###
