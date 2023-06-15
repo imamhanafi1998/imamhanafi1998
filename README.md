@@ -26,11 +26,6 @@ In a "real-life", I play mobile games or some old video games on my Laptop, visi
 
 For somehow, my close friends call me SONHAJI and I like it. I do like to share some of my personal experiences to them, such as academics, loves, films, video games and many more. Sometimes I write it on my Instagram. Because with writing, it can speak whatever I can not.  
   
-
-<br/>  
-
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Docker and Mulesoft  
@@ -76,30 +71,3 @@ For somehow, my close friends call me SONHAJI and I like it. I do like to share 
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
