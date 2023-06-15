@@ -31,7 +31,7 @@ For somehow, my close friends call me SONHAJI and I like it. I do like to share 
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
-<br/>  
+  
 
 ## Languages and Tools  
 <div align="left">  
