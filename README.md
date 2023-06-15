@@ -20,11 +20,7 @@
 ### Glad to see you here!  
 Lived in Surabaya, Indonesia. Studied on Information System at UPN "VETERAN" Jawa Timur and now currently working as Fullstack Dev.
 
-I'm interested in developing modern web, especially on MERN stack. So I decided to learn it slowly, part by part, starts with ReactJS as this website made with.
-
-In a "real-life", I play mobile games or some old video games on my Laptop, visiting 1CAK and watching YouTube too.
-
-For somehow, my close friends call me SONHAJI and I like it. I do like to share some of my personal experiences to them, such as academics, loves, films, video games and many more. Sometimes I write it on my Instagram. Because with writing, it can speak whatever I can not.  
+I'm interested in developing modern web, especially on MERN stack. So I decided to learn it slowly, parts by parts.
 
 - 🌱 I’m currently learning Docker and Mulesoft  
   
