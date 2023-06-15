@@ -25,20 +25,11 @@ I'm interested in developing modern web, especially on MERN stack. So I decided 
 In a "real-life", I play mobile games or some old video games on my Laptop, visiting 1CAK and watching YouTube too.
 
 For somehow, my close friends call me SONHAJI and I like it. I do like to share some of my personal experiences to them, such as academics, loves, films, video games and many more. Sometimes I write it on my Instagram. Because with writing, it can speak whatever I can not.  
-  
-<table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Docker and Mulesoft  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
